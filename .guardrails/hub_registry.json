@@ -1,0 +1,13 @@
+{
+  "version": 1,
+  "validators": {
+    "guardrails/llamaguard_7b": {
+      "import_path": "guardrails_grhub_llamaguard_7b",
+      "exports": [
+        "LlamaGuard7B"
+      ],
+      "installed_at": "2026-06-24T06:32:10.117101+00:00",
+      "package_name": "guardrails-grhub-llamaguard-7b"
+    }
+  }
+}
