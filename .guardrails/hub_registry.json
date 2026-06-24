@@ -8,6 +8,22 @@
       ],
       "installed_at": "2026-06-24T06:32:10.117101+00:00",
       "package_name": "guardrails-grhub-llamaguard-7b"
+    },
+    "tryolabs/restricttotopic": {
+      "import_path": "tryolabs_grhub_restricttotopic",
+      "exports": [
+        "RestrictToTopic"
+      ],
+      "installed_at": "2026-06-24T14:56:53.598846+00:00",
+      "package_name": "tryolabs-grhub-restricttotopic"
+    },
+    "guardrails/detect_jailbreak": {
+      "import_path": "guardrails_grhub_detect_jailbreak",
+      "exports": [
+        "DetectJailbreak"
+      ],
+      "installed_at": "2026-06-24T15:05:07.376094+00:00",
+      "package_name": "guardrails-grhub-detect-jailbreak"
     }
   }
 }
